@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jayanth SUDABATTULA</h1>
 <h3 align="center">A passionate web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gfycat.com/colorlessbitesizedkob">
+<img align="right" alt="Coding" width="400" src="https://s3.ap-south-1.amazonaws.com/rzp-prod-merchant-assets/payment-link/description/developer_k02jzrgohphqyu.gif">
 
 - 🌱 I’m currently learning **next.js typescript**
 
