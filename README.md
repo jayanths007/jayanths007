@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **react and next**
 
-- Find me [jayanth.dev]  (https://jayanth.dev/)
+- Find me [jayanth.fr]  (https://jayanth.fr/)
 
 - 💬 Ask me about **react**
 
